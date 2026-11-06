@@ -287,5 +287,5 @@ The video must show (with voice-over): register/login, SSO, settings, REST API d
 
 ## 13. References
 
-- Firebase Cloud Messaging: https://firebase.google.com/docs/cloud-messaging [Accessed 03 November 2025]
-- GitHub Actions Android build: https://github.com/marketplace/actions/automated-build-android-app-with-github-action [Accessed 03 November 2025]
+- Firebase Cloud Messaging: https://firebase.google.com/docs/cloud-messaging [Accessed 03 November 2026]
+- GitHub Actions Android build: https://github.com/marketplace/actions/automated-build-android-app-with-github-action [Accessed 03 November 2026]
