@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Studie Hub</string>
+    <string name="welcome_back">Welkom Terug</string>
+    <string name="login">Teken In</string>
+    <string name="create_account">Skep Rekening</string>
+    <string name="email">E-pos</string>
+    <string name="password">Wagwoord</string>
+    <string name="home">Tuis</string>
+    <string name="planner">Beplanner</string>
+    <string name="learn">Leer</string>
+    <string name="focus">Fokus</string>
+    <string name="settings">Instellings</string>
+    <string name="todays_focus">Vandag se fokus</string>
+    <string name="start_focus">Begin Fokus</string>
+    <string name="quick_access">Vinnige toegang</string>
+    <string name="todays_plan">Vandag se plan</string>
+    <string name="timetable">Rooster</string>
+    <string name="assignments">Opdragte</string>
+    <string name="flashcards">Flitskaarte</string>
+    <string name="create_quiz">Skep Vasvra</string>
+    <string name="practice_quiz">Oefen Vasvra</string>
+    <string name="notifications">Kennisgewings</string>
+    <string name="enable_notifications">Aktiveer kennisgewings</string>
+    <string name="study_reminders">Studie-herinnerings</string>
+    <string name="dark_mode">Donker Modus</string>
+    <string name="language">Taal</string>
+    <string name="logout">Teken Uit</string>
+    <string name="plan_learn_focus">Beplan. Leer. Fokus.</string>
+    <string name="login_google">Teken in met Google</string>
+    <string name="back">Terug</string>
+    <string name="save_settings">Stoor Instellings</string>
+    <string name="appearance">Voorkoms</string>
+    <string name="settings_saved">Instellings gestoor</string>
+    <string name="login_subtitle">Teken in om jou studiereis voort te sit.</string>
+    <string name="full_name">Volle Naam</string>
+    <string name="confirm_password">Bevestig Wagwoord</string>
+    <string name="back_to_login">Terug na Aanmelding</string>
+    <string name="welcome_back_home">Welkom terug</string>
+</resources>

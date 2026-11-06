@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Isikhungo Sokufunda</string>
+    <string name="welcome_back">Siyakwamukela Futhi</string>
+    <string name="login">Ngena</string>
+    <string name="create_account">Dala I-akhawunti</string>
+    <string name="email">I-imeyili</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="home">Ikhaya</string>
+    <string name="planner">Isihleli</string>
+    <string name="learn">Funda</string>
+    <string name="focus">Gxila</string>
+    <string name="settings">Izilungiselelo</string>
+    <string name="todays_focus">Ukugxila kwanamuhla</string>
+    <string name="start_focus">Qala Ukugxila</string>
+    <string name="quick_access">Ukufinyelela okusheshayo</string>
+    <string name="todays_plan">Uhlelo lwanamuhla</string>
+    <string name="timetable">Ishejuli</string>
+    <string name="assignments">Imisebenzi</string>
+    <string name="flashcards">Amakhadi okufunda</string>
+    <string name="create_quiz">Dala Imibuzo</string>
+    <string name="practice_quiz">Zilolonge</string>
+    <string name="notifications">Izaziso</string>
+    <string name="enable_notifications">Vula izaziso</string>
+    <string name="study_reminders">Izikhumbuzi zokufunda</string>
+    <string name="dark_mode">Imodi Emnyama</string>
+    <string name="language">Ulimi</string>
+    <string name="logout">Phuma</string>
+    <string name="plan_learn_focus">Hlela. Funda. Gxila.</string>
+    <string name="login_google">Ngena nge-Google</string>
+    <string name="back">Emuva</string>
+    <string name="save_settings">Londoloza Izilungiselelo</string>
+    <string name="appearance">Ukubukeka</string>
+    <string name="settings_saved">Izilungiselelo zilondoloziwe</string>
+    <string name="login_subtitle">Ngena ukuze uqhubeke nohambo lwakho lokufunda.</string>
+    <string name="full_name">Igama Eliphelele</string>
+    <string name="confirm_password">Qinisekisa Iphasiwedi</string>
+    <string name="back_to_login">Buyela Ekungeneni</string>
+    <string name="welcome_back_home">Siyakwamukela futhi</string>
+</resources>

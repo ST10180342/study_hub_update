@@ -1,0 +1,18 @@
+## This is a template. Copy this file to "local.properties" and fill in your values.
+## Do NOT commit local.properties to GitHub (it is already in .gitignore).
+
+sdk.dir=C\:\\Users\\Student\\AppData\\Local\\Android\\Sdk
+
+# Supabase credentials (get these from your Supabase project dashboard)
+supabase.url=https://YOUR_PROJECT_ID.supabase.co
+supabase.key=YOUR_SUPABASE_ANON_PUBLIC_KEY
+
+# Google SSO: OAuth *Web application* client ID (Google Cloud Console > Credentials).
+# Must also be enabled under Supabase > Authentication > Providers > Google.
+google.web.client.id=YOUR_WEB_CLIENT_ID.apps.googleusercontent.com
+
+# Optional: release signing (Play Store). Never commit the keystore.
+#release.store.file=C\:\\keys\\studyhub.jks
+#release.store.password=...
+#release.key.alias=studyhub
+#release.key.password=...
